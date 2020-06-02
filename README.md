@@ -1,11 +1,6 @@
-## My Project
+## Amazon Aurora MySQL Sample HR Schema
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This project is going to help quickly create a sample schema in an Amazon Aurora MySQL DB and load data into the tables part of this schema. This will help developers doing quick POCs and testing their application using the sample data.
 
 ## License
 
