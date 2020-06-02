@@ -1,6 +1,6 @@
 ## Amazon Aurora MySQL Sample HR Schema
 
-This project is going to help quickly create a sample schema in an Amazon Aurora MySQL DB and load data into the tables part of this schema. This will help developers doing quick POCs and testing their application using the sample data.
+This project is going to help developers quickly create a sample database schema in an Amazon Aurora MySQL DB and load sample data into the tables part of the schema. This will help developers doing quick POCs and testing their application using the sample data.
 
 ## License
 
